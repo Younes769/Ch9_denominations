@@ -25,4 +25,4 @@ function CalcuCahnge(ToAmount, denominations) {
 const ToAmount = 389;
 const denominations = [1, 5, 10, 20, 100];
 const result = CalcuCahnge(ToAmount, denominations);
-console.log(result);
+console.log(result); 
